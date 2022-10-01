@@ -2,6 +2,8 @@
 Recommendation engine  is the algorithmic technique to suggest the relevent items to the end-user.
 Multiple methods and techniques are used in it.
 
+>Project status : Active and Version : 1.00
+
 ## Problem Statement:
 We consume a lot of content over the internet. And we all have different field of interest. Mainer times we get to see irrelevant content which we dont like over it, including ads.  
 Recommendation System solves that problem bringing the smart method to show you the things you prefer and even the items you may like .
